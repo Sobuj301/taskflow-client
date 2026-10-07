@@ -29,4 +29,4 @@ npm run dev
 Create a `.env` file with your own Firebase config and API URL.
 
 ## Author
-[Your Name] - [your LinkedIn link]
+Md Sobuj Rana - https://www.linkedin.com/in/sobuj301
