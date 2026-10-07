@@ -21,7 +21,7 @@ A full-stack task management app where users sign in and manage their own tasks.
 
 ## Run Locally
 ```bash
-git clone [your client repo link]
+git clone https://github.com/Sobuj301/taskflow-client
 cd taskflow-client
 npm install
 npm run dev
